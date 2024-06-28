@@ -1,0 +1,24 @@
+/* src/components/EpisodeForm.css */
+.formContainer {
+    margin-top: 20px;
+  }
+  
+  .formTitle {
+    text-align: center;
+    margin-bottom: 20px;
+  }
+  
+  .textField {
+    margin-bottom: 10px;
+    margin-top: 20px;
+    padding-left: 0px !important;
+  }
+  
+  .pageContainer {
+    margin-top: 40px;
+  }
+
+  .gridItem {
+    width: 100%;
+    padding-left: 0px !important;
+  }
